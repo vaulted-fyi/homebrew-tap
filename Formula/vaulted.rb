@@ -1,8 +1,8 @@
 class Vaulted < Formula
   desc "Zero-knowledge encrypted secret sharing from the command line"
   homepage "https://www.vaulted.fyi"
-  url "https://registry.npmjs.org/vaulted-cli/-/vaulted-cli-1.0.1.tgz"
-  sha256 "7297bf5cbff49d823b6e04bb9220375712480f0bad681df77386b930288fc285"
+  url "https://registry.npmjs.org/vaulted-cli/-/vaulted-cli-2.0.0.tgz"
+  sha256 "9b907efccc8cff694a69828029c9576d99efb4eb0897423a0b45cf6a7e2a1010"
   license "MIT"
 
   depends_on "node"
